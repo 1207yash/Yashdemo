@@ -1,4 +1,4 @@
 # Yashdemo
 hello
 <br>
-Author -Yash Gajakosh
+Author -Yash Gajakosh (yash)
